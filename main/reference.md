@@ -5,7 +5,7 @@
 ## 官網
 
 * [CNS11643 中文全字庫](https://www.cns11643.gov.tw/)
-* [全字庫字型下載 - 政府資料開放平台](https://data.gov.tw/dataset/5961)
+* [全字庫資料集 - 政府資料開放平台](https://data.gov.tw/dataset/5961)
 
 
 ## Wiki
