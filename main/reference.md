@@ -18,7 +18,7 @@
 
 *  Ubuntu 問答集 / [系統如何安裝字型](http://samwhelp.github.io/book-ubuntu-qna/read/howto/configure-font/font/)
 *  Ubuntu 問答集 / [字型安裝與設定](http://samwhelp.github.io/book-ubuntu-qna/read/howto/configure-font/)
-
+* [FontForge 使用筆記](https://samwhelp.github.io/note-about-fontforge/)
 
 
 
